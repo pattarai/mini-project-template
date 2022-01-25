@@ -2,6 +2,8 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/pattarai/discord-moderator-bot)
 ![GitHub issues](https://img.shields.io/github/issues-raw/pattarai/discord-moderator-bot)
+![Github forks](https://img.shields.io/github/forks/pattarai/discord-moderator-bot)
+![Github license](https://img.shields.io/github/license/pattarai/discord-moderator-bot)
 
 ### Description
 Create a discord Bot which sends message to particular text channel sent to the bot by a member in the text channel.
