@@ -1,7 +1,13 @@
+## Please make sure you are assigned to an [Issue](https://github.com/pattarai/discord-moderator-bot/issues) before submitting a pull request
+
+Go to the [issue](https://github.com/pattarai/discord-moderator-bot/issues) page and either
+- Request to be assigned to an existing issue
+- Create your own issue and use one of the templates provided. Wait for approval and to be assigned the issue before submitting a pull request
+
 ## Contributions you can make to this project
 
 - Add your work
-- Improve an existing tutorial
+- Improve an existing idea
 - Report a bug or problem with the repo
 - Make any suggestion for improvement as a issue
 
