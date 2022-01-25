@@ -1,3 +1,7 @@
+# Contributing to Pattarai
+
+All inputs are welcome!
+
 ## Please make sure you are assigned to an [Issue](https://github.com/pattarai/discord-moderator-bot/issues) before submitting a pull request
 
 Go to the [issue](https://github.com/pattarai/discord-moderator-bot/issues) page and either
