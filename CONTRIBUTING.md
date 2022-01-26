@@ -53,7 +53,7 @@ git push origin your-branch
 
 ### 9. If needed, respond to code review comments and feedback 
 
-### 10. If all goes well, your changes will be merged. Congrats! 
+### 10. If your contribution is valid, your changes will be merged. Congrats! 
 
 ## License
 
