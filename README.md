@@ -1,4 +1,4 @@
-# DISCORD MODERATOR BOT ✨
+# {project title} ✨
 
 ### Description
 {mini project description goes here...}
